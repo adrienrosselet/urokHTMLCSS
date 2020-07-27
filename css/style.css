@@ -2,6 +2,8 @@ body{
   font-family: arial;
   width: 1280px;
   margin: 0 auto;
+  /* background-image: url('../img/fond.JPG');
+  background-size: cover; */
 }
 .title-head{
   font-weight: normal;
@@ -142,6 +144,9 @@ clear: both;
   width: 93%;
   margin: 0;
 }
+.foto{
+  float: left;
+}
 .scrin-div{
   width: 195px;
   height: 150px;
@@ -183,8 +188,7 @@ clear: both;
   border-radius: 5px;
 }
 .dot {
-  height: 75px;
-  width: 75px;
+
   background-color: #445161;
   border-radius: 50%;
   display: inline-block;
