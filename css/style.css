@@ -172,12 +172,14 @@ clear: both;
   width: 50%;
   margin: 0 0 20px 0;
 }
+.caption{
+  margin: 0;
+}
 .rev-div{
   width: 100px;
   height: 100px;
-
+  margin: 0px 0px 0px 20px;
   float: left;
-  margin-left: 20px;
 }
 .fourth-p{
   float: right;
@@ -203,7 +205,6 @@ clear: both;
     width: 0px;
     height: 0px;
     margin-left: 105px;
-    margin-top: 13px;
     border-top: 20px solid transparent;
     border-right: 16px solid #eee;
     border-bottom: 20px solid transparent;
